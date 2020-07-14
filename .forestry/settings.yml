@@ -10,6 +10,7 @@ sections:
   path: projects
   label: Projects
   create: all
+  match: "**/*"
 - type: document
   path: src/data/theme.json
   label: Theme options
