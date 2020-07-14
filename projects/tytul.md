@@ -5,7 +5,14 @@ year: "2020"
 categories:
 - Product
 - News
-fieldtext1: Field Text1234
+fieldtext1: |-
+  Field Text1234
+
+  * 1w31313
+  * 3131234124
+  * 2424242
+
+  UUHH**OIUHPIO**UHU
 
 ---
 Tutaj piszemy treść....
