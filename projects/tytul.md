@@ -5,6 +5,7 @@ year: "2020"
 categories:
 - Product
 - News
+fieldtext1: Field Text1234
 
 ---
 Tutaj piszemy treść....
