@@ -16,6 +16,16 @@ fields:
   label: categories
   config:
     use_select: false
+- name: fieldtext1
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: FieldText1
+  description: Description123
 pages:
 - projects/molecular-gastronomy.md
 - projects/the-london-book-fair.md
